@@ -30,6 +30,7 @@
 			
 ## 3）选择对应的接口，可拖拉排序
 >注意：这边目前逻辑上还没有完全控制，接口链式组合是以操作为基础，如果需要用到查询加上自己的判断那就是在逻辑脚本中插入。
+>目前可参加测试的接口：添加、删除
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117151304955.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)
 ## 4）创建应用
