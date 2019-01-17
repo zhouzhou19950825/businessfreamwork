@@ -41,7 +41,7 @@
 ## 6）进入开发者中心->接口调试工具->应用测试
 >选择对应的应用，输入appId(12345)，传入数据（测试数据：{"orderName":"12345678232139","payName":"31231231","integralName":"123123"}）
 >
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117145341229.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117170456637.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)
 点击测试：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117145659244.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)
 点击查看详情：
@@ -52,6 +52,11 @@ requestDataFieldMap/resultDataFieldMap：这两个字段是请求数据的严格
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117150041473.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)
 点击查看（所有的请求记录都在上边）：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117150151605.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)
+## 7）查看数据情况
+   >模块中心->模块详情
+   
+   点击模块
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117165234885.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190117165158497.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzI0Mjk1,size_16,color_FFFFFF,t_70)
 # 3、脚本逻辑调用
 >脚本逻辑调用（进阶型）-》控制中间数据流转逻辑（可以回调通知外部应用）（市场产品：无）
 
